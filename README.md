@@ -1,0 +1,1 @@
+# Projekat_IA_Upravljanje-asinhronim-motorom-preko-digitalnih-ulaza-na-frekventnom-invertoru
